@@ -1,2 +1,1 @@
-# game
-Project-Game
+# Memory-Game using HTML, CSS & JavaScript
